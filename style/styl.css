@@ -3,10 +3,16 @@
 }
 #div1{
     background-color: cyan;
+    margin: 10px;
+    padding: 10p0x  ;
     }
     #div2{
         background-color: aqua;
     }
     .div2{
         color: black;
+    }
+    #div3{
+        background-color: dodgerblue;
+        border: 10px;
     }
